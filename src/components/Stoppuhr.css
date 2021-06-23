@@ -1,0 +1,21 @@
+div {
+   text-align: center;
+   margin-top: 75px;
+   width: 300px;
+   height: 250px;
+   background-color: orange;
+}
+button {
+   margin-left: 10px;
+   border-radius: 50%;
+}
+/*.start {
+   visibility: visible;
+}
+.stop {
+   visibility: hidden;
+}
+.reset {
+   visibility: hidden;
+}
+*/
